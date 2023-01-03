@@ -1,0 +1,22 @@
+VertexLitGeneric
+{
+
+	"$basetexture" "livery/vng_supra"
+	"%keywords" "livery/vng_supra"
+	"$nodecal" 1
+	"$nocull" "1"
+	$envmap			env_cubemap
+	$envmapmask		"livery/metalic_livery3"
+	$envmapcontrast 0.8
+	"$colorfix" "{255 255 255}"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+
+}
+

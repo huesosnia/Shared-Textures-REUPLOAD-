@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "igger's wheel fix"
+	"author_name" "Author Name"
+	"info" "{"title":"Digger's wheel fix","type":"vehicle","tags":["fun","realism"],"ignore":[]}"
+}
